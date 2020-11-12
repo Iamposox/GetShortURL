@@ -1,0 +1,9 @@
+C:\Users\Администратор\Desktop\Проекты\CutURL\CutURL.Domain\bin\Debug\netcoreapp3.1\CutURL.Domain.deps.json
+C:\Users\Администратор\Desktop\Проекты\CutURL\CutURL.Domain\bin\Debug\netcoreapp3.1\CutURL.Domain.dll
+C:\Users\Администратор\Desktop\Проекты\CutURL\CutURL.Domain\bin\Debug\netcoreapp3.1\CutURL.Domain.pdb
+C:\Users\Администратор\Desktop\Проекты\CutURL\CutURL.Domain\obj\Debug\netcoreapp3.1\CutURL.Domain.csprojAssemblyReference.cache
+C:\Users\Администратор\Desktop\Проекты\CutURL\CutURL.Domain\obj\Debug\netcoreapp3.1\CutURL.Domain.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Проекты\CutURL\CutURL.Domain\obj\Debug\netcoreapp3.1\CutURL.Domain.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Проекты\CutURL\CutURL.Domain\obj\Debug\netcoreapp3.1\CutURL.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Проекты\CutURL\CutURL.Domain\obj\Debug\netcoreapp3.1\CutURL.Domain.dll
+C:\Users\Администратор\Desktop\Проекты\CutURL\CutURL.Domain\obj\Debug\netcoreapp3.1\CutURL.Domain.pdb
